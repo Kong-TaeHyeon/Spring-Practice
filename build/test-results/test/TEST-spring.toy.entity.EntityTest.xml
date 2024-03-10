@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="spring.toy.entity.EntityTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-10T06:55:12" hostname="gongtaehyeon-ui-MacBookAir.local" time="0.03">
+  <properties/>
+  <testcase name="DualEntityTest()" classname="spring.toy.entity.EntityTest" time="0.03"/>
+  <system-out><![CDATA[Entity 1 : Entity 1
+Entity 2 : Entity 2 & 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
